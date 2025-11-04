@@ -1,5 +1,5 @@
 package datasorter;
-public class MergeSort {
+public class MergeSort { // Updated by Member 3
     static long steps;
 
     public static SortResult sort(int[] arr) {
