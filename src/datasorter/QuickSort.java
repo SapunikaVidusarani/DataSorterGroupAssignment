@@ -1,6 +1,6 @@
 package datasorter;
 
-public class QuickSort {  // Updated by Member 3
+public class QuickSort {  
     static long steps;
 
     public static SortResult sort(int[] arr) {
