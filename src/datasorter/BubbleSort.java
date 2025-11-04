@@ -1,6 +1,5 @@
 package datasorter;
 
-
 public class BubbleSort {
     public static SortResult sort(int[] arr) {
         long steps = 0;
