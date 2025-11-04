@@ -1,4 +1,5 @@
 package datasorter;
+
 public class MergeSort {
     static long steps;
 
