@@ -1,5 +1,4 @@
 package datasorter;
-
 public class QuickSort {
     static long steps;
 
